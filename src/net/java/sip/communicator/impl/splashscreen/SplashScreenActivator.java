@@ -54,9 +54,9 @@ public class SplashScreenActivator
     /**
      * The colors.
      */
-    private Color TEXT_BACKGROUND = new Color(203, 202, 202);
-    private Color TEXT_FOREGROUND = new Color(82, 82, 82);
-    private Color PROGRESS_FOREGROUND = new Color(177, 174, 173);
+    private Color TEXT_BACKGROUND = new Color(0, 0, 0);
+    private Color TEXT_FOREGROUND = new Color(255, 255, 255);
+    private Color PROGRESS_FOREGROUND = new Color(0, 0, 0);
 
     /**
      * Starts if the splash screen is available.
